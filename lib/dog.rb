@@ -14,5 +14,5 @@ end
 
 scout - Dog.new 
 scout.name = "Scout"
-puts scout.name 
+scout.bark
 
