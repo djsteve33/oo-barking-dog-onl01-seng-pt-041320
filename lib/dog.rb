@@ -9,4 +9,4 @@ end
 
 scout - Dog.new 
 scout.name = "Scout"
-puts
+puts scout.name 
