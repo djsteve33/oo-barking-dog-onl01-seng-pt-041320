@@ -12,7 +12,7 @@ class Dog
   end
 end 
 
-scout - Dog.new 
+scout = Dog.new 
 scout.name = "Scout"
 
 scout.name
